@@ -15,3 +15,4 @@ LG Aimers Competition
 
 * 8/3 AutoML(Boosting계열이 가장 성능이 좋음) 및 주요 타겟 변수 선정(Y_04, Y_05, Y_06 => 3개의 예측값을 잘 맞추는 거에 초점)
 
+* 8/7 첫 팀 회의 진행 
